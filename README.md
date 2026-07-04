@@ -1,17 +1,24 @@
 # cloud-computing-roadmap
-My journey to becoming a Cloud Engineer
+### My journey to becoming a Cloud Engineer
 ## About Me
 Hi! I am Nivea Dsouza, a First Year B.Sc. Computer Science student.
 This repository documents my learning journey in cloud computing and related technologies.
 ---
 ## Goals
 -Learn Linux
+<BR>
 -Master Git & Github
+<BR>
 -Build strong Network fundamentals
+<BR>
 -Learn Python for Automation
+<BR>
 -Explore AWS & Azure
+<BR>
 -Understand Docker & Kubernetes
+<BR>
 -Build Cloud Projects
+<BR>
 -Earn Cloud Certifications
 ---
 ## Learning Roadmap
