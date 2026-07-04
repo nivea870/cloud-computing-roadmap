@@ -1,5 +1,5 @@
-# cloud-computing-roadmap
-### My journey to becoming a Cloud Engineer
+# Cloud-Computing-Roadmap
+### My Journey To Becoming a Cloud Engineer
 ## About Me
 Hi! I am Nivea Dsouza, a First Year B.Sc. Computer Science student.
 This repository documents my learning journey in cloud computing and related technologies.
