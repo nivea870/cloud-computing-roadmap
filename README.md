@@ -23,16 +23,27 @@ This repository documents my learning journey in cloud computing and related tec
 ---
 ## Learning Roadmap
 -[] Computer Fundamentals
+<BR>
 -[] Networking
+<BR>
 -[] Linux
+<BR>
 -[] Git & GitHub
+<BR>
 -[] Python
+<BR>
 -[] Cloud Computing Fundamentals
+<BR>
 -[] AWS
+<BR>
 -[] Azure
+<BR>
 -[] Docker
+<BR>
 -[] Kubernetes
+<BR>
 -[] Terraform
+<BR>
 -[] Cloud Security
 ---
 ## Repository Structure
